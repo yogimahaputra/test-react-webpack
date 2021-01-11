@@ -1,0 +1,9 @@
+.Coba{
+    color: green;
+}
+
+.logo-react{
+    background-image: url('../../assets_src/images/logo192.png');
+    width: 150px;
+    height: 200px;
+}
